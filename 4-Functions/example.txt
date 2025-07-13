@@ -1,0 +1,2 @@
+This is a Sample String to find the Number of occurance of each words
+ This is a repeat of Sample String
